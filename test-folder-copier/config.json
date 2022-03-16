@@ -1,0 +1,6 @@
+{
+    "name": "Test Folder Copier",
+    "className": "CustomApp",
+    "server": "https://demo-west.rallydev.com",
+    "sdk": "2.0"
+}

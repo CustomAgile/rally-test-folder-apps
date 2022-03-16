@@ -1,0 +1,16 @@
+.app {
+}
+.tsinfolink {
+    position:absolute;
+    right:0px;
+    width:5%;
+}
+
+.ts-column-header,  .ts-column-header-top {
+    font-family: ProximaNovaSemiBold, Helvetica, Arial;
+    font-size: 16px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+}
+ 

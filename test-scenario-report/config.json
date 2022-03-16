@@ -1,0 +1,6 @@
+{
+    "name": "Test Scenarios",
+    "className": "CustomApp",
+    "server": "https://demo01.rallydev.com",
+    "sdk": "2.0rc2"
+}
